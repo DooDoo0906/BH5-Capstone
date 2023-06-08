@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "chrome",
+      "name": "http://localhost:3000",
+      "request": "launch",
+      "url": "http://localhost:3000",
+      "skipFiles": [
+        "<node_internals>/**/*.js",
+        "${workspaceFolder}/node_modules/**/*.js",
+      ]
+    }
+  ]
+}
